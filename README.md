@@ -11,7 +11,6 @@ A Python project developed in Jupyter Notebook to scrape product data from Amazo
 - [Dependencies](#dependencies)
 - [Disclaimer](#disclaimer)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
